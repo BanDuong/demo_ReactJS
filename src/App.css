@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.App{
+  padding-top: 5rem;
+}
+
+.show-list-task{
+  padding-top: 1.5rem;
+}
